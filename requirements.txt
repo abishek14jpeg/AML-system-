@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+scikit-learn
+shap
+networkx
+plotly
+streamlit
+requests
+motor
+pandas
+numpy
+xgboost
